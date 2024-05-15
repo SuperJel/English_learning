@@ -73,6 +73,7 @@ The company had to make through decisions to nevigate through the downturn in th
 During the economic downturn， we focused on cost-saving measures to maintain profits.
 在经济下行旗舰，我们专注于节约成本的措施以保持盈利。
 
+//Github contribution没有更新的解决方法测试->修改Git的邮箱地址
 
 
 
