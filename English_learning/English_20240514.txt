@@ -1,39 +1,44 @@
 20240512
 【外企同事常说的英语"advocate"什么意思？【商务英语学习】-哔哩哔哩】 https://b23.tv/ku3uUMO
 
-Scale：
+Scale(1)：
 
 We need to scale our production to meet increasing demand for our product.
 我们需要扩大产品规模以满足我们对产品不断增长的需求。
 
-The company is scaling its operations to enter the new market.
-公司正在调整规模以进入新的市场。
+The company is scaling its operations(2) to enter the new market.
+公司正在调整规模（扩大运营规模）以进入新的市场。
 
+scale n.鱼鳞；鳞甲；鱼鳞状物；片状沉淀；天平；磅秤；等级；级别；规模；程度；范围；音阶
+scope n.范围；领域；机会；可能；观测仪器；缆绳长度；特定论点的数量；意图；目的
+large-scale(3) adj.大规模的；广泛的；大比例尺的
 
-Convey：
+Convey：传达；表达；传递；运输；输送；转移（财产权利）；转让（所有权）；传送；搬运；传播；传送信息；传递思想；传递感情
 
-The company's website should convey the company's brand image and value.
-公司网站应该传达公司的品牌形象和价值。
+convey gratitude(4) 表达感激；表示谢意
+
+The company's website should convey the company's brand image(5 品牌形象) and value.
+公司网站应该传达公司的 品牌形象 和价值。
 
 The presentation should effectively convey the advantages of our product.
 演示需要有效的向投资者传达我们的优势。
 
 
-advocate 提倡；主张
+advocate (7)提倡；主张 美 [哎
 
-She advocates a balanced approach between work and personal life.
+She advocates a balanced approach between(6) work and personal life.
 她主张在工作和个人生活之间，采取平衡的方式。
 
-The finance manager advocates for cost-saving measures to improve profit.
+The finance manager advocates for cost-saving measures to improve profit(8).
 财务经理主张采取节约成本的措施以提高盈利。
 
 
-leverage 利用；发挥
+leverage(9) 利用；发挥
 
-We can leverage our industry connections to secure more collaboration oppotunities.
+We can leverage our industry connections to secure more collaboration oppotunities(10).
 我们可以利用我们在行业内的关系来或得更多的合作机会。
 
-Let's leverage our expertise in digital marketing to enhance our online presence.
+Let's leverage our expertise(11) in digital marketing to enhance(11) our online presence(12).
 我们利用我们在数字营销的专业知识，增强我们的线上影响力。
 
 
@@ -41,37 +46,38 @@ Let's leverage our expertise in digital marketing to enhance our online presence
 
 【外企同事常说的英语"compliance"什么意思？【商务英语学习】-哔哩哔哩】 https://b23.tv/fZSLGpB
 
-feasibility 可行性
+feasibility (12)可行性
 
-We're reviewing the feasibility of the proposed expansion plane.
+We're reviewing the feasibility of the proposed expansion plan(13).
 我们正在审核所提出的扩展计划的可行性。
 
-Let's assess the feasibility of implementing remote work.
+Let's assess（14） the feasibility of implementing remote work.
 我们来评估一下实施远程工作的可行性。
 
-compliance 合规；遵从
+compliance（15） 合规；遵从
 
-We conduct regular audits to maintain compliance with industry regulations.
+We conduct regular audits（16） to maintain compliance with industry regulations.
 我们定期进行审计，以保持符合行业规定要求。
-
-It's crucial for employees to understand and follow compliance procedures.
-员工理解并遵守合规程序是很重要的。
+	audits 旁听；审计；查账；（audit的第三人称单数）；查帐；（audit的复数）
+	audience(17) n.观众；听众；读者；接见；进见；觐见；会见；拜见；
 
 traction   （产品在市场上收到的）关注；进展；实际成果
+拖拉；牵引；附着摩擦力；知名度；受欢迎度；牵引力；拉力；机车总称
 
-Our new product launch is starting to gain traction in the target market.
+Our new product launch(18 新产品发布会) is starting to gain traction(19) in the target market.
 新产品的推出 开始在目标市场上获得关注和认可。
 
-Our marketing efforts are gaining traction, leading to a rise in website traffic.
+Our marketing efforts are gaining traction, leading to a rise in website traffic(20).
 我们的营销工作正在获得关注，使得网站流量增加。
+traffic light 交通信号灯
 
 downturn 衰退；下滑；经济下行
 
-The company had to make through decisions to nevigate through the downturn in the market.
+The company had to make though decisions(21) to navigate through the downturn(22 度过低迷期) in the market.
 公司不得不做出艰难的决定  来应对市场的衰退。
 
 During the economic downturn， we focused on cost-saving measures to maintain profits.
-在经济下行旗舰，我们专注于节约成本的措施以保持盈利。
+在经济下行期，我们专注于节约成本的措施以保持盈利。
 
 //Github contribution没有更新的解决方法测试->修改Git的邮箱地址
 
@@ -80,45 +86,72 @@ During the economic downturn， we focused on cost-saving measures to maintain pr
 【外企同事常说的英语alienate什么意思？【商务英语学习干货】-哔哩哔哩】 https://b23.tv/9qGy9Eq
 
 flop 失败;不成功
+沉重、松散又笨拙的动作；扑通声；重坠声；彻底失败；廉价旅馆；便宜栖身处
 
-Our market campaign completely flopped because we didn't generate any potential client.
+Our market campaign(23) completely flopped(25) because we didn't generate any potential client(24).
 我们的营销活动彻底失败了，因为我们没有产生任何潜在用户。
 
 The product launch flopped because we didn't do enough market search before introduce it.
 市场推出失败因为我们没有在推出前做足够的市场调研。
 
 
-alienate 疏远;使疏离
+alienate 疏远;使疏离 
+使…感到孤立；转让；使…变得不同情
 
-The new company policy has alienated some of our most loyal customers.
+The new company policy(26) has alienated some of our most loyal customers(27).
 新的公司政策已经疏远了我们最忠实的一些客户.
 
-The manager's abrasive attitude towards employees will only alienate them further.
+The manager's abrasive attitude(28) towards employees will only alienate them further(29).
 经理对员工的恶劣态度只会进一步的疏远他们。
+
+
 
 
 contradict 与 。。。相矛盾
 
-his statement contradicts with the fact presented in the report.
+His statement contradicts with(30) the fact presented in the report.
 他的陈述与报告里呈现的事实相矛盾。
 
-Your proposal contradicts with the goals we have set for this project.
+Your proposal(31) contradicts with the goals we have set for this project.
 你的建议和我们为这个项目设立的目标相矛盾。
 
 
-outweigh 比 重要 ;胜过;超过
+outweigh(33) 比 重要 ;胜过;超过
 
-The importance of team work outweighs the individual contributions in the organization.
+The importance of team work outweighs the individual contributions(32) in the organization.
 在这个组织中，团队合作的重要性胜过个人的贡献。
 
-The potential business opportunities in the new market outweigh the challenge of entering it.
+The potential business opportunities(33) in the new market outweigh the challenge of entering it.
 进入新市场的潜在机遇超过了其中的挑战。
 
+【外企同事常说的英语"substantiate"什么意思?【商务英语学习】】 https://www.bilibili.com/video/BV1La4y1B735/?share_source=copy_web&vd_source=51d3531e55dacaa0ac9dfa6a8fbfc8a2
+20240525
 
+Substatiate 证实；证明（35）
 
+The candidates（34） are able to substantiate（36） their qualifications（37） with relevant certificates（38）.
+候选人能够通过相关证书证明自己的资质。
 
+replicate（39） 复制；复刻；模拟
 
+We need to replicate the success of our previous marketing campaign for the new product launch.
+我们需要复制之前营销活动的成功，用于新产品的发布。
 
+Our company plans to replicate its successful business model in new market.
+我们公司计划在新市场复制其成功的商业模式；
 
+conduct 进行；开展
 
+Our company will conduct a training session （40）on customer service skill for all new hires（41）.
+我们公司将为所有新员工进行一次关于客户服务技巧的 培训课程。
 
+The project manager conducted a risk assessment（42） to identify potential risks.
+项目经理进行了风险评估，以识别潜在风险并制定缓解策略
+
+expedite 加快；加速；推进
+
+The project manager decided to expedite the approval process（43） to meet the project deadline.
+项目经理决定加快审批流程以按时完成项目。
+
+We need to expedite the hiring process to secure top talent（44） for the vacant position.
+我们需要加快招聘流程，以确保为空缺职位招揽顶级人才。
