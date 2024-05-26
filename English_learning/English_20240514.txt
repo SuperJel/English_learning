@@ -1,4 +1,4 @@
-20240512
+20240512-1
 【外企同事常说的英语"advocate"什么意思？【商务英语学习】-哔哩哔哩】 https://b23.tv/ku3uUMO
 
 Scale(1)：
@@ -42,7 +42,12 @@ Let's leverage our expertise(11) in digital marketing to enhance(11) our online 
 我们利用我们在数字营销的专业知识，增强我们的线上影响力。
 
 
-20240515
+
+
+
+
+
+20240515-2
 
 【外企同事常说的英语"compliance"什么意思？【商务英语学习】-哔哩哔哩】 https://b23.tv/fZSLGpB
 
@@ -81,7 +86,13 @@ During the economic downturn， we focused on cost-saving measures to maintain pr
 
 //Github contribution没有更新的解决方法测试->修改Git的邮箱地址
 
-20240516
+
+
+
+
+
+
+20240516-3
 
 【外企同事常说的英语alienate什么意思？【商务英语学习干货】-哔哩哔哩】 https://b23.tv/9qGy9Eq
 
@@ -124,10 +135,15 @@ The importance of team work outweighs the individual contributions(32) in the or
 The potential business opportunities(33) in the new market outweigh the challenge of entering it.
 进入新市场的潜在机遇超过了其中的挑战。
 
+
+
+
+
 【外企同事常说的英语"substantiate"什么意思?【商务英语学习】】 https://www.bilibili.com/video/BV1La4y1B735/?share_source=copy_web&vd_source=51d3531e55dacaa0ac9dfa6a8fbfc8a2
-20240525
+20240525-4
 
 Substatiate 证实；证明（35）
+substantiate  证实，使得实现，类似prove
 
 The candidates（34） are able to substantiate（36） their qualifications（37） with relevant certificates（38）.
 候选人能够通过相关证书证明自己的资质。
@@ -155,3 +171,45 @@ The project manager decided to expedite the approval process（43） to meet the p
 
 We need to expedite the hiring process to secure top talent（44） for the vacant position.
 我们需要加快招聘流程，以确保为空缺职位招揽顶级人才。
+
+
+
+
+
+
+
+20240526-5
+https://www.bilibili.com/video/BV1b94y1M7Zt/?spm_id_from=333.788.recommend_more_video.9&vd_source=80ae6a77fa403db844e7b538669bdebc
+
+tentative
+tentative是初步的，尝试性的，temporary就是短暂，一段时间，前面是有种实验性的感觉
+
+We have made a tentitive plan for the project timeline.
+我们已经制定了一个暂定的项目时间表。
+
+The team had a tentative discussion about the new marketing strategy, but there might be changes.
+团队对新的营销策略进行了初步的讨论，但还需要进一步的分析。
+
+optimal 最佳的；最优的
+
+We need to find an optimal solution that balance cost and quality.
+我们需要找到一个平衡成本和质量的最佳解决方法。
+
+We conduct a market research to identify the optimal target market for our new product.
+我们进行了市场调研，以确定我们产品的最佳目标市场。
+
+proactive 主动的；积极的
+
+He is proactive in seeking new opportunities for professional development.
+他在寻求新的职业发展机会方面非常主动。
+
+The team took a proactive approach  to stay ahead of competitors and seize market opportunities.
+团队采取主动的方式来领先于竞争对手并抓住市场机会。
+
+informative 信息丰富的；具有信息性的
+
+The report includes informative data analysis and market insights.
+报告包含了丰富的数据分析和市场洞察。
+
+The presentation provided an informative overview of the company's financial performance.
+这个演示文稿对公司的财务情况提供了信息丰富的概述。
